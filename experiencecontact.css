@@ -1,0 +1,57 @@
+body
+{
+background-repeat: no-repeat;
+background-size: 100% 100%;
+font-family: Verdana, sans-serif;
+}
+
+table {
+font-family: times new roman;
+font-size: 18px;
+}
+
+#table1 {
+  border-collapse: separate;
+  border-spacing: 1px;
+  table-layout: fixed;
+  width: 100%;
+}
+
+#table2, tr {
+  border-collapse: separate;
+  border-spacing: 1px;
+  table-layout: fixed;
+}
+
+#table3 {
+  border-collapse: separate;
+  border-spacing: 1px;
+  width: 60%;
+  border-radius: 15px;
+  border: 2px solid  #coral;
+  padding: 20px;
+  background-color: #FFCBA4;
+  font-family: Times New Roman;
+  font-size: 18px;
+}
+
+#table4 {
+  border-collapse: separate;
+  border-spacing: 1px;
+  table-layout: fixed;
+  width: 100%;
+}
+
+#table5 {
+  border-collapse: separate;
+  border-spacing: 1px;
+  table-layout: fixed;
+  width: 100%;
+}
+
+}
+
+#table6 {
+  width: 70%;
+ 
+}

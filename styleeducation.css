@@ -1,0 +1,26 @@
+body
+{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+#table1 {
+  border-collapse: separate;
+  table-layout: fixed;
+  width: 80%;
+}
+
+#table2 {
+  table-layout: fixed;
+  width: 80%;
+}
+
+p {
+  border-radius: 25px;
+  border: 2px solid  #coral;
+  padding: 20px;
+  background-color: #FFCBA4;
+  font-family: Times New Roman;
+  font-size: 18px;
+}

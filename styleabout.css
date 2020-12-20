@@ -1,0 +1,23 @@
+body
+{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+font-family: Verdana, sans-serif;
+}
+
+img {
+ border-radius: 50%
+}
+
+#table2, td {
+  border-collapse: separate;
+  border-spacing: 30px;
+  table-layout: fixed;
+  width: 100%;
+  border-radius: 15px;
+  border: 2px solid  #coral;
+  padding: 20px;
+  font-family: Times New Roman;
+  font-size: 18px;
+}
